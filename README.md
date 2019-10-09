@@ -12,5 +12,5 @@ Environmental Control system for arduino with interface
 *led light assemblly
 *heating pad
 
-#issues for future versions
+## issues for future versions
 --reimplement string operations with c style char arrays
